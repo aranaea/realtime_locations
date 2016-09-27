@@ -1,0 +1,18 @@
+{
+  "name": "socket_chat",
+  "version": "1.0.0",
+  "description": "The socket chat tutorial from http://code.tutsplus.com/tutorials/using-nodejs-and-websockets-to-build-a-chat-service--net-34482",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Peter Cornelius",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "kinesis": "^1.2.2",
+    "socket.io": "^1.4.5",
+    "socket.io-stream": "^0.9.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "sample_itech_tracker",
+  "version": "1.0.0",
+  "description": "Reads from a locations file and replays the data to a pipeline",
+  "main": "feeder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kinesis": "^1.2.2"
+  }
+}

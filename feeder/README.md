@@ -1,0 +1,1 @@
+This is a development tool for the iteck tracking application.  It takes a list of itech ids and locations and replays them to a datasink for the tracking application to use.  The rate is based on the actual time stamps in the data but can be increased or decreased.
